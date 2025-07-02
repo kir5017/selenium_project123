@@ -20,6 +20,7 @@ public class Homepage {
 	 else {
 		  System.out.println("TC cases failed");
 		 }
+		System.out.println("Testing");
 	
 	driver.close ();
 	
